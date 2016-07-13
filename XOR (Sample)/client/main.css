@@ -1,0 +1,21 @@
+body {
+    background-color: lightslategray;
+}
+
+h3 {
+    color: white;
+
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#spinner {
+    font-size: 24px;
+    color: white;
+}
